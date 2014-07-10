@@ -1,4 +1,4 @@
 WeCheck API: PHP Client
 ===============
 
-PHP Client for the WeCheck API
+For more information and documentation, please see http://www.wecheck.net/dashboard/info/api
